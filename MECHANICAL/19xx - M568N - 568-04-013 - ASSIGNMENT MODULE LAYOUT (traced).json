@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/ROUTING/M568N/MECHANICAL/19xx - M568N - 568-04-013 - ASSIGNMENT MODULE LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/e9500dd1160bdfc0.svg",
+ "sheet": {
+  "number": "568-04-013",
+  "title": "Assignment Module Layout",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1404],
+  "mm": [431.8, 303.1],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 3.5, 431.8, 279.6],
+ "outlines": {
+  "line": {"rings": 353, "straight": {"n": 4363, "mm": 10789.7}, "curved": {"n": 638, "mm": 1052.5}},
+  "text": {"rings": 63, "straight": {"n": 431, "mm": 507.3}, "curved": {"n": 122, "mm": 164.6}}
+ },
+ "circles": [
+  {"c": [410.6, 151.6], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [313.0, 156.7], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [313.1, 139.3], "r": 5.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [371.9, 164.9], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [372.1, 138.4], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [68.5, 217.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.2},
+  {"c": [69.8, 95.3], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.2},
+  {"c": [361.8, 246.4], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [363.2, 68.9], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [0.0, 271.2, 3.5, 279.6], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [0.0, 256.3, 3.5, 264.7], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [341.1, 63.5, 382.6, 251.1], "w": 41.5, "h": 187.6, "from": "ring"},
+  {"mm": [0.0, 241.4, 3.5, 249.8], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [0.0, 211.5, 3.5, 220.2], "w": 3.5, "h": 8.7, "from": "ring"},
+  {"mm": [0.0, 196.9, 3.5, 205.1], "w": 3.5, "h": 8.2, "from": "ring"},
+  {"mm": [0.0, 181.8, 3.5, 190.2], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [221.5, 166.2, 228.2, 176.2], "w": 6.7, "h": 10.0, "from": "ring"},
+  {"mm": [0.0, 167.1, 3.5, 175.5], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [349.1, 166.2, 356.0, 174.6], "w": 6.9, "h": 8.4, "from": "ring"},
+  {"mm": [349.1, 155.4, 356.3, 163.7], "w": 7.2, "h": 8.2, "from": "ring"},
+  {"mm": [-0.2, 152.2, 3.5, 160.6], "w": 3.6, "h": 8.4, "from": "ring"},
+  {"mm": [221.7, 140.3, 228.4, 150.3], "w": 6.7, "h": 9.9, "from": "ring"},
+  {"mm": [349.3, 139.7, 356.5, 147.9], "w": 7.1, "h": 8.2, "from": "ring"},
+  {"mm": [188.9, 144.0, 193.9, 146.4], "w": 5.0, "h": 2.4, "from": "ring"},
+  {"mm": [0.0, 137.3, 3.5, 145.7], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [349.3, 129.1, 356.5, 137.1], "w": 7.1, "h": 8.0, "from": "ring"},
+  {"mm": [189.1, 133.2, 194.1, 135.6], "w": 5.0, "h": 2.4, "from": "ring"},
+  {"mm": [0.0, 107.5, 3.5, 115.9], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [0.2, 92.6, 3.9, 101.0], "w": 3.7, "h": 8.4, "from": "ring"},
+  {"mm": [0.2, 77.7, 3.7, 86.1], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [0.2, 62.8, 3.7, 71.2], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [0.2, 47.9, 3.7, 56.3], "w": 3.5, "h": 8.4, "from": "ring"},
+  {"mm": [0.2, 33.2, 3.7, 41.5], "w": 3.5, "h": 8.2, "from": "ring"},
+  {"mm": [359.5, 6.7, 361.8, 9.5], "w": 2.4, "h": 2.8, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 568-04-013, size B (assumed) 432 × 303 mm, 2000 × 1404 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 0–432 mm across, 4–280 mm up",
+  "- **Outlines:** line 353 rings, 4,363 straight (10,790 mm) / 638 curved (1,052 mm); text 63 rings, 431 straight (507 mm) / 122 curved (165 mm)",
+  "- **Circles and arcs:** 9 circles, 0 arcs; largest r 5.2 @ (410.6, 151.6), r 5.2 @ (313.0, 156.7), r 5.2 @ (313.1, 139.3), r 4.0 @ (371.9, 164.9)",
+  "- **Closed boxes:** 25"
+ ]
+}
