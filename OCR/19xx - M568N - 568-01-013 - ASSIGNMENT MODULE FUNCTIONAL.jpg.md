@@ -21,7 +21,7 @@ Wiki page: [M568N](../../../../PAGES/M568N.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 28 connected wire groups from 117 runs
 
-Every curve, box, word and wire group: [19xx - M568N - 568-01-013 - ASSIGNMENT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M568N%20-%20568-01-013%20-%20ASSIGNMENT%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M568N - 568-01-013 - ASSIGNMENT MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568N - 568-01-013 - ASSIGNMENT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M568N%20-%20568-01-013%20-%20ASSIGNMENT%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M568N - 568-01-013 - ASSIGNMENT MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

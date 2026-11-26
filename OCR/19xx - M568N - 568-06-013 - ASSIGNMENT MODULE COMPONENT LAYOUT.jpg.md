@@ -20,7 +20,7 @@ Wiki page: [M568N](../../../../PAGES/M568N.md)
 - **Closed boxes:** 7
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [19xx - M568N - 568-06-013 - ASSIGNMENT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568N%20-%20568-06-013%20-%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568N - 568-06-013 - ASSIGNMENT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568N - 568-06-013 - ASSIGNMENT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568N%20-%20568-06-013%20-%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568N - 568-06-013 - ASSIGNMENT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 
