@@ -4,13 +4,10 @@ Ward-Beck Systems M568N. Wiki page: [M568N on WBSps.ca](https://wardbecksystems.
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 13 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
 ## Photos
@@ -30,8 +27,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNHNsWHBWN1hEXzA/view?resourcekey=0-QT9rqzvkuB3f2xQwLXJxcg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNHNsWHBWN1hEXzA&resourcekey=0-QT9rqzvkuB3f2xQwLXJxcg" width="240" alt="19xx - M568N - 568-04-013 - ASSIGNMENT MODULE LAYOUT.jpg"></a><br><sub>19xx - M568N - 568-04-013 - ASSIGNMENT MODULE LAYOUT · <a href="MECHANICAL/19xx%20-%20M568N%20-%20568-04-013%20-%20ASSIGNMENT%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 568-04-013 - ASSIGNMENT MODULE LAYOUT.jpg`
 
 ## 3-D model
 
@@ -57,7 +52,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M568N - 568-01-013 - ASSIGNMENT MODULE FUNCTIONAL.kicad_sch](KICAD/19xx%20-%20M568N%20-%20568-01-013%20-%20ASSIGNMENT%20MODULE%20FUNCTIONAL.kicad_sch)
 - [19xx - M568N - 568-02-013.kicad_sch](KICAD/19xx%20-%20M568N%20-%20568-02-013.kicad_sch)
 - [M568N.kicad_sym](KICAD/M568N.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
