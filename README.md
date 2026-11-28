@@ -1,6 +1,6 @@
 # M568N Assignment Module · Routing
 
-Ward-Beck Systems M568N. Wiki page: [M568N on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568N.html)
+Ward-Beck Systems M568N. Wiki page: [M568N on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568N-Assignment-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

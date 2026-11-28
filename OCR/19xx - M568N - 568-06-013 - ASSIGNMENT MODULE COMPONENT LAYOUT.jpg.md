@@ -1,5 +1,5 @@
 # 19xx - M568N - 568-06-013 - ASSIGNMENT MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M568N](../../../../PAGES/M568N.md)
+Wiki page: [M568N](../)
 
 
 - **Year:** unknown (unknown)

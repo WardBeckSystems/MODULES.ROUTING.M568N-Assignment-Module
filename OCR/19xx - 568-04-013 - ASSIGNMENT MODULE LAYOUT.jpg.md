@@ -1,5 +1,5 @@
 # 19xx - 568-04-013 - ASSIGNMENT MODULE LAYOUT.jpg
-Wiki page: [M568N](../../../../PAGES/M568N.md)
+Wiki page: [M568N](../)
 
 
 - **Year:** unknown (title block (read by eye))
